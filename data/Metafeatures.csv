@@ -1,0 +1,53 @@
+id,name,feature_area
+1,no clusivity distinction in independent personal pronouns,
+2,complementizer may be preposed to the clause,
+3,complementizer may be postposed to the clause,
+4,Is sex a relevant property in the genifier system?,
+6,TAM marking in negated clauses identical to marking in affirmative clauses,
+7,no gender concord of an adnominal adjective with the noun,
+8,gender concord of few adnominal adjectives with the noun,
+9,gender concord of many adnominal adjectives with the noun,
+10,gender concord of all adnominal adjectives with the noun,
+11,predicative adjectives behave like verbs,
+12,predicative adjectives do not behave like verbs,
+13,predicative adjectives behave like verbs in some but not all respects,
+14,predicative nominals have an invariant copula,
+15,predicative nominals have a variable copula,
+16,predicative nominals have no copula,
+17,clusivity distinction in independent personal pronouns,
+19,locational predicates have a non-standard negation,
+20,no numeral classifiers,
+21,no gender system,genifiers
+22,optional numeral classifiers,genifiers
+23,obligatory numeral classifiers,genifiers
+24,affixal possessive indexes are suffixes,nominal markers
+25,affixal possessive indexes are prefixes,nominal markers
+26,affixal possessive indexes are prefixes or suffixes,nominal markers
+27,no affixal possessive indexes,nominal markers
+28,possidend nouns exist,nominal markers
+29,possidend nouns do not exist,
+30,no possessive classifiers,
+31,2-4 possessive classifiers,
+32,> 4 possessive classifiers,
+33,a definite/specific article exists,
+34,a definite/specific article does not exist,
+35,an affixal definite/specific article exists,
+36,an indefinite article exists,
+37,an article exists that precedes the noun in a neutral order,
+38,an article exists that follows the noun in a neutral order,
+39,property words used as adnominal modifiers can occur discontinuously,property words
+40,P-argument nominals are never flagged,
+41,P-argument nominals are always flagged ,
+42,P-argument nominals are flagged only if they are definite,
+43,P-argument nominals are flagged only if they are animate,
+44,P-argument nominals are flagged only if they are definite and animate,
+45,standard negation is expressed by a particle that precedes the verb,
+46,standard negation is expressed by a particle that follows the verb,
+47,standard negation is expressed by a suffix on the verb,
+48,standard negation is expressed by a prefix on the verb,
+49,noun plus noun combinations can be formed productively to express general concepts,
+50,adnominal adjectives obligatorily carry a flag,
+51,articles carry a flag,
+52,nouns obligatorily carry a flag,
+54,a standard negative construction contains a clause-final negator,
+55,a standard negative construction contains a clause-initial negator,

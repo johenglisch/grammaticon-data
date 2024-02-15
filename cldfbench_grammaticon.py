@@ -16,7 +16,18 @@ class Dataset(BaseDataset):
 
         >>> self.raw_dir.download(url, fname)
         """
-        pass
+        excel_sheets = [
+            'Concepthierarchy.xlsx',
+            'Concepts.xlsx',
+            'Concepts_metafeatures.xlsx',
+            'Feature_lists.xlsx',
+            'Features.xlsx',
+            'Metafeatures.xlsx',
+            'x_Concepthierarchy.xlsx',
+            'x_Concepts_Metafeatures.xlsx',
+        ]
+        for sheet in excel_sheets:
+            self.raw_dir.xlsx2csv(sheet)
 
     def cmd_makecldf(self, args):
         """
